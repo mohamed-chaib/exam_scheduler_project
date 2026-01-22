@@ -1,7 +1,7 @@
 import requests
 import streamlit as st
 
-url = "http://127.0.0.1:8000"
+url = "https://exam-scheduler-test.onrender.com"
 
 def login_user(email, password):
     try:

@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-URL = "http://127.0.0.1:8000"
+URL = "https://exam-scheduler-test.onrender.com"
 
 def check():
     print("--- SIMULATING STUDENT VIEW LOGIC ---")
